@@ -7,7 +7,7 @@ This is a template for "Shri Ramdeobaba College of Engineering and Management" t
 <br><b>This is Home Page Bottom Part</b>
 ![alt text](screenshots/home2.png "This is home page")
 <br>
-<br><b>This is International Colaboration Page</b>
+<br><b>This is International Collaboration Page</b>
 ![alt text](screenshots/intercolab.png "This is home page")
 
 
