@@ -1,0 +1,37 @@
+
+h2, h3, h4 {
+	font-family: Verdana, Geneva, sans-serif ;
+	color: #CCC;
+}
+#background {
+	background-color: #FF5722;
+	
+}
+li {
+	
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px
+	
+}
+.navbar .nav > li > a {
+	color: #FFF !important;
+}
+.navbar .nav > li > a:hover {
+	background-color: transparent;
+	color: #000;
+	border-bottom: 1px solid #dd7816
+}
+.dropdown-menu{
+	background-color:#FF5722 !important;
+}
+nav.navbar.shrink {
+  min-height: 10px;
+  height: 100px;
+}
+nav.navbar{
+  background-color:#ccc;
+   // Animation
+   -webkit-transition: all 0.4s ease;
+   transition: all 0.4s ease;
+}

@@ -1,0 +1,46 @@
+#alumni-container{
+	margin-top:16em;
+	margin-left: 6em;
+	margin-right: 6em;
+	box-shadow:1px 1px 5px #333333;
+	padding: 2em;
+}
+
+@media(max-width:1000px) {
+	#alumni-container{
+		margin-top:16em;
+		margin-left: 0em;
+		margin-right: 0em;
+		box-shadow:1px 1px 5px #333333;
+		padding: 2em;
+	}
+}
+#bgr{ 
+background-color:#009688;
+box-shadow:1px 1px 5px #009688;
+border:hidden;
+}
+.navbar .nav > li > a {
+	color: #FFF !important;
+	font-weight:700;
+}
+.dropdown-menu {
+	background-color: #009688 !important;
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+.dropdown-menu > li > a { 
+  color:#FFF !important;
+}
+.navbar .nav > li :hover {
+	background-color:transparent;
+	color: #000 !important;
+	font-weight:700;
+	
+}
+h3, h5 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF !important;
+	letter-spacing: 2px;
+	font-weight: 700 !important;
+}

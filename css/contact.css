@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+#con{
+	margin-top:16em;
+	margin-left: 6em;
+	margin-right: 6em;
+	box-shadow:1px 1px 5px #333333;
+	padding: 2em;
+}
+strong{
+	color:#757575;
+    font-family:Verdana, Geneva, sans-serif;
+}
+#bg{
+	box-shadow:1px 1px 5px #333333;
+	background:#00E676;
+	padding:2em;
+}
+label{ 
+color:#FFF;
+}
+button:hover{
+	background-color:#FF5252 !important;
+	
+}
